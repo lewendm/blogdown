@@ -29,7 +29,7 @@ social:
   icon_pack: fas
   link: /#contact
 - display:
-    header: false
+    header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
