@@ -34,4 +34,4 @@ url_slides: ""
 url_video: ""
 ---
 
-{{< icon name="download" pack="fas" >}} You can access my slides {{< staticref "https://osf.io/x69ed/" "newtab" >}}here on OSF{{< /staticref >}}.
+👉 You can access my slides {{< staticref "https://osf.io/x69ed/" "newtab" >}}here on OSF{{< /staticref >}}.

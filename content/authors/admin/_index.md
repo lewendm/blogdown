@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Emotions, judgment and decision making, open science & reproducibility.
 education:
   courses:
   - course: PhD in Organizational Behavior
@@ -30,7 +29,7 @@ social:
   icon_pack: fas
   link: /#contact
 - display:
-    header: true
+    header: false
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
