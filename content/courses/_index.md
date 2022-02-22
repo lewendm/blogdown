@@ -2,9 +2,9 @@
 header:
   caption: ""
   image: ""
-title: Courses
+title: Talks
 type: page
 view: 2
 ---
 
-I teach the following courses:
+Recent talks:

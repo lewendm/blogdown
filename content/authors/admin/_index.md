@@ -35,18 +35,21 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/Lewendm
+- icon: github
+  icon_pack: fab
+  link: https://github.com/lewendm
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/lewendmayiwar/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Z-FRXGkAAAAJ&hl=en&oi=ao
 - icon: osf
   icon_pack: ai
   link: https://osf.io/sdej7/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/lewendm
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/lewendmayiwar
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Lewend-Mayiwar
 superuser: true
 title: Lewend Mayiwar
 ---
