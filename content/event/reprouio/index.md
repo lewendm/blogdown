@@ -9,7 +9,7 @@ address:
 all_day: false
 authors: []
 date: "2021-06-15T13:00:00Z"
-date_end: "2021-02-04T14:00:00Z"
+date_end: "2021-06-15T14:00:00Z"
 event: UiO ReproducibiliTea Journal Club
 event_url: 
 featured: false
@@ -23,7 +23,7 @@ links:
 location: University of Oslo
 projects:
 - internal-project
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-06-15T15:00:00Z"
 slides: example
 summary: Invited for a talk on our ReproducibiliTea journal club at BI Norwegian Business School (the first in Norway!) for the UiO ReproducibiliTea journal club at the University of Oslo.
 tags: []

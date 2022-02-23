@@ -9,7 +9,7 @@ address:
 all_day: false
 authors: []
 date: "2022-02-04T12:00:00Z"
-date_end: "2030-02-04T13:00:00Z"
+date_end: "2022-02-04T13:00:00Z"
 event: Friday Seminar
 event_url: 
 featured: false
@@ -23,7 +23,7 @@ links:
 location: BI Norwegian Business School
 projects:
 - internal-project
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-02-04T13:00:00Z"
 slides: example
 summary: An introduction to preregistration and the Open Science Framework (OSF).
 tags: []

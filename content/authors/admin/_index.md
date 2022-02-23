@@ -14,12 +14,10 @@ education:
 email: lewend.mayiwar@bi.no
 highlight_name: true
 interests:
-- Open science and reproducibility
+- Open science & reproducibility
+- Data visualization
 - Replications
-- Judgment and decision making
-- Risk and uncertainty
-- Emotions
-- Psychological distance & construal level theory
+- Emotions and decision making
 organizations:
 - name: BI Norwegian Business School
   url: "https://www.bi.edu/"
@@ -53,6 +51,6 @@ superuser: true
 title: Lewend Mayiwar
 ---
 
-Hi! I am a PhD candidate at the Department of Leadership & Organizational Behavior at BI Norwegian Business School. I am also affiliated with {{< staticref "https://sites.google.com/nyu.edu/tropelab/people?authuser=0" "newtab" >}}Trope Lab{{< /staticref >}} at New York University's Department of Psychology. My PhD project seeks to understand how emotions and psychological distance influence decisions involving risk and uncertainty. I am a big fan of open and reproducible science. I set up the first ReproducibiliTea journal club in Norway, that I'm currently co-running with a colleague. The goal of our journal club is to raise awareness of open science and reproducibility (see "Projects" for more info). I am also a local node leader for Norway's Reproducibility Network {{< staticref "https://www.norrn.no/team" "newtab">}} (NORRN) {{< /staticref >}}.
+Hi! I am a PhD candidate at the Department of Leadership & Organizational Behavior at BI Norwegian Business School. I am also affiliated with {{< staticref "https://sites.google.com/nyu.edu/tropelab/people?authuser=0" "newtab" >}}Trope Lab{{< /staticref >}} at New York University's Department of Psychology. My PhD project seeks to understand how emotions and psychological distance influence decisions involving risk and uncertainty. I am a big fan of open and reproducible science, and an avid user of {{< icon name="r-project" pack="fab" >}}. I set up the first ReproducibiliTea journal club in Norway, that I'm currently co-running with a colleague. The goal of our journal club is to raise awareness of open science and reproducibility (see "Projects" for more info). I am also a local node leader for Norway's Reproducibility Network {{< staticref "https://www.norrn.no/team" "newtab">}} (NORRN) {{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
