@@ -8,7 +8,7 @@ address:
   street: Nydalsveien 37
 all_day: false
 authors: []
-date: "2021-02-04T12:00:00Z"
+date: "2022-02-04T12:00:00Z"
 date_end: "2030-02-04T13:00:00Z"
 event: Friday Seminar
 event_url: 
