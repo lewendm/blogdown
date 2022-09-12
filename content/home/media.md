@@ -27,6 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Interview: How can leaders improve their decision making?
+    tag: e24-interview
+  - name: Open Science for Junior Researchers
+    tag: Forskningspolitikk
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
