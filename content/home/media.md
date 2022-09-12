@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: "Interview: How can leaders improve their decision making?"
     tag: e24-interview
-  - name: Open Science for Junior Researchers
-    tag: Forskningspolitikk
+  - name: "The Dilemmas of Practicing Open Science for Junior Researchers"
+    tag: forskningspolitikk
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -41,7 +41,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
