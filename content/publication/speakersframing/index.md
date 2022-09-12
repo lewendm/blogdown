@@ -12,7 +12,7 @@ projects: []
 publication: '*under review in Collabra: Psychology*'
 publication_short: ""
 publication_types:
-- "1"
+- "3"
 publishDate: "2022-06-01T00:00:00Z"
 slides: #
 summary: 
