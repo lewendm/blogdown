@@ -1,5 +1,5 @@
 ---
-title: "Fram for troverdig forskning"
+title: "Fram for troverdig forskning (Research must be transparent and verifiable)"
 author: "Agata Bochynska, Dan Quintana, Julien Mayor,
 Siri Leknes, Timo Roettger, Lewend Mayiwar, Tamara Kalandadze"
 date: '2022-06-08'
