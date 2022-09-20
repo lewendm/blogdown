@@ -3,7 +3,7 @@ date: "2022-02-04T00:00:00Z"
 image:
   caption: Photo by Lewend Mayiwar
   focal_point: Smart
-summary: When Decision Makers Transcend the Here and Now: *The role of psychological distance in decision making under risk and uncertainty*
+summary: When Decision Makers Transcend the Here and Now: The role of psychological distance in decision making under risk and uncertainty
 tags:
 title: PhD Project
 links:
