@@ -20,7 +20,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/Lewendm
-location: BI Norwegian Business School
+location: Department of Psychology, New York University
 projects:
 - internal-project
 publishDate: "2022-11-04T13:00:00Z"
