@@ -19,7 +19,7 @@ summary:
 title: "Fear and anxiety differ in construal level and scope"
 url_code: ""
 url_dataset: ""
-url_pdf: "fear_anxiety.pdf"
+url_pdf: "fearanxiety.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
