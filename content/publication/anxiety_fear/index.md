@@ -11,7 +11,7 @@ image:
 projects: []
 publication: '*Cognition and Emotion*'
 publication_short: ""
-publication_types:
+publication_types: ""
 publishDate: "2023-02-22T00:00:00Z"
 slides: #
 summary: 
