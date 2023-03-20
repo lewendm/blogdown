@@ -11,7 +11,7 @@ image:
 projects: []
 publication: '*Collabra: Psychology*'
 publication_short: ""
-publication_types:
+publication_types: ""
 publishDate: "2022-12-28T00:00:00Z"
 slides: #
 summary: 
