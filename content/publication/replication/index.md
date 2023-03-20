@@ -5,7 +5,7 @@ authors:
 - Linda Lai
 date: "2019-09-01T00:00:00Z"
 doi: "10.1027/1864-9335/a000388"
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/JdtUKqGdqw8)'
   focal_point: ""
