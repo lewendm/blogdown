@@ -12,7 +12,6 @@ projects: []
 publication: '*Academy of Management Proceedings*'
 publication_short: ""
 publication_types:
-- "1"
 publishDate: "2021-07-01T00:00:00Z"
 slides: #
 summary: 

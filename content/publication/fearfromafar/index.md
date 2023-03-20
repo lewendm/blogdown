@@ -12,11 +12,9 @@ projects: []
 publication: '*Frontiers in Psychology - Cognition*'
 publication_short: ""
 publication_types:
-- "1"
 publishDate: "2021-06-01T00:00:00Z"
 slides: #
 summary: 
-
 title: Fear from Afar, Not So Risky After All. Distancing Moderates the Relationship Between Fear and Risk Taking
 url_code: ""
 url_dataset: ""
