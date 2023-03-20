@@ -12,7 +12,7 @@ projects: []
 publication: '*Frontiers in Psychology - Cognition*'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2021-06-01T00:00:00Z"
 slides: #
 summary: 

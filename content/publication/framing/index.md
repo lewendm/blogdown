@@ -12,7 +12,7 @@ projects: []
 publication: '*Collabra: Psychology*'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2022-12-28T00:00:00Z"
 slides: #
 summary: 
