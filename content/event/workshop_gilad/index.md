@@ -27,7 +27,7 @@ publishDate: "2023-06-27T13:00:00Z"
 slides: example
 summary: 
 tags: []
-title: "(Preregistered) replication workshop with Gilad Feldman"
+title: "Replication workshop with Gilad Feldman"
 url_code: ""
 url_pdf: ""
 url_slides: ""
