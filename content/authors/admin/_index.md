@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Organizational Behavior
     institution: BI Norwegian Business School, Department of Leadership and Organizational Behavior (dissertation submitted for evaluation; defense set for September 2023)
-    year: present
+    year: 2019-2023 (September)
   - course: Visiting Scholar
     institution: Department of Psychology (Trope Lab), New York University, New York
     year: 2022-2023
