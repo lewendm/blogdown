@@ -35,3 +35,5 @@ url_video: ""
 ---
 
 👉 Materials from our workshop can be accessed at {{< staticref "https://osf.io/a2tgb/" "newtab" >}}on OSF{{< /staticref >}}.
+
+👉 Recording of the talk is available here {{< staticref "https://www.youtube.com/watch?v=HOY35Br6Dfc" "newtab" >}}on Gilad's YouTube channel{{< /staticref >}}.

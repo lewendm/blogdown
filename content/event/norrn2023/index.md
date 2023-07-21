@@ -27,7 +27,7 @@ publishDate: "2023-06-05T13:00:00Z"
 slides: example
 summary: 
 tags: []
-title: "Norwegian Reproducibility Netwowrk (NORRN) Annual Event"
+title: "Norwegian Reproducibility Network (NORRN) Annual Event"
 url_code: ""
 url_pdf: ""
 url_slides: ""
