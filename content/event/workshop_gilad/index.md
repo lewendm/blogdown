@@ -1,5 +1,5 @@
 ---
-abstract: I was so excited to invite Gilad Feldman, Assistant Professor at Hong Kong University, for a hands-on workshop on replications at our department. For two intensive days, Gilad walked us through every key stage of conducting a replication: We targeted a classic study to replicate, dissected the target to figure out how to replicate it, preregistered analytical plan and hypotheses, collected data, and even ended up with a manuscript draft that we worked on together. Researchers from three different departments participated in the workshop🎉. Gilad also delivered a fascinating talk at BI Norwegian Business School on how researchers can tackle challenges in science and society through the power of collaboration and team science (recording here: https://lnkd.in/dcevgWzE). Many thanks to Joke Verwaard for suggesting and co-organizing this!
+abstract: I was so excited to invite Gilad Feldman, Assistant Professor at Hong Kong University, for a hands-on workshop on replications at our department. For two intensive days, Gilad walked us through every key stage of conducting a replication: We targeted a classic study to replicate, dissected the target to figure out how to replicate it, preregistered analytical plan and hypotheses, collected data, and even ended up with a manuscript draft that we worked on together. Researchers from three different departments participated in the workshop🎉. Gilad also delivered a fascinating talk at BI Norwegian Business School on how researchers can tackle challenges in science and society through the power of collaboration and team science (recording here: https://lnkd.in/dcevgWzE). 
 address:
   city: Oslo
   country: Norway
@@ -8,8 +8,8 @@ address:
   street: 
 all_day: false
 authors: []
-date: "2022-11-04T12:00:00Z"
-date_end: "2022-11-04T13:00:00Z"
+date: "2023-06-27T12:00:00Z"
+date_end: "2023-06-27T09:00:00Z"
 event: Replication workshop
 event_url: 
 featured: false
@@ -23,7 +23,7 @@ links:
 location: Department of Leadership and Organizational Behaviour, BI Norwegian Business School
 projects:
 - internal-project
-publishDate: "2023-27-06T13:00:00Z"
+publishDate: "2023-06-27T13:00:00Z"
 slides: example
 summary: 
 tags: []
