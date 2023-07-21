@@ -1,5 +1,5 @@
 ---
-abstract: I was so excited to invite Gilad Feldman, Assistant Professor at Hong Kong University, for a handson workshop on replications at our department. For two intensive days, Gilad walked us through every key stage of conducting a replication. We targeted a classic study to replicate, dissected the target to figure out how to replicate it, preregistered analytical plan and hypotheses, collected data, and even ended up with a manuscript draft that we worked on together. Researchers from three different departments participated in the workshop. Gilad also delivered a fascinating talk at BI Norwegian Business School on how researchers can tackle challenges in science and society through the power of collaboration and team science. 
+abstract: I had the pleasure of moderating a panel discussion on open science in higher education at the Norwegian Reproducibility Network's Annual Conference. The panelists were Ulf Toelch (QUEST Center for Responsible Research, Berlin Institute of Health), Nora Rose Serres (PhD Candidate), and Erik Løhre (Associate Professor in Organizational Behavior, BI Norwegian Business School). The panelists were invited to discuss how universities and business schools can integrate practices like reproducibility, replications, and registered reports in higher education.
 address:
   city: Oslo
   country: Norway
@@ -8,9 +8,9 @@ address:
   street: 
 all_day: false
 authors: []
-date: "2023-06-27T09:00:00Z"
-date_end: "2023-06-27T11:00:00Z"
-event: Replication workshop
+date: "2023-06-05T09:00:00Z"
+date_end: "2023-06-05T11:00:00Z"
+event: NORRN Annual Event 2023
 event_url: 
 featured: false
 image:
@@ -20,18 +20,18 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/Lewendm
-location: Department of Leadership and Organizational Behaviour, BI Norwegian Business School
+location: Oslo/Zoom
 projects:
 - internal-project
-publishDate: "2023-06-27T13:00:00Z"
+publishDate: "2023-06-05T13:00:00Z"
 slides: example
 summary: 
 tags: []
-title: "Replication workshop with Gilad Feldman"
+title: "Norwegian Reproducibility Netwowrk (NORRN) Annual Event"
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-👉 Materials from our workshop can be accessed at {{< staticref "https://osf.io/a2tgb/" "newtab" >}}on OSF{{< /staticref >}}.
+👉 Recording can be accessed here {{< staticref "https://www.youtube.com/watch?v=q0Rs3BMw4UA&t=2s" "newtab" >}}on YouTube{{< /staticref >}}.
