@@ -22,7 +22,7 @@ summary:
 title: "Open-office noise and information processing"
 url_code: ""
 url_dataset: ""
-url_pdf: "jmp2023.pdf"
+url_pdf: "jmp.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
