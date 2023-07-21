@@ -1,10 +1,13 @@
 ---
-bio: Emotions, judgment and decision making, open science & reproducibility.
+bio: Emotions, judgment and decision making, reproducibility, replications.
 education:
   courses:
   - course: PhD in Organizational Behavior
-    institution: BI Norwegian Business School, Department of Leadership and Organizational Behavior
+    institution: BI Norwegian Business School, Department of Leadership and Organizational Behavior (dissertation submitted for evaluation; defense set for September 2023)
     year: present
+  - course: Visiting Scholar
+    institution: Department of Psychology (Trope Lab), New York University, New York
+    year: 2022-2023
   - course: MSc in Leadership & Organizational Psychology
     institution: BI Norwegian Business School, Norway
     year: 2018
@@ -15,7 +18,6 @@ email: lewend.mayiwar@bi.no
 highlight_name: true
 interests:
 - Open science & reproducibility
-- Data visualization
 - Replications
 - Emotions and decision making
 organizations:
