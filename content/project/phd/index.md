@@ -3,7 +3,7 @@ date: "2022-02-04T00:00:00Z"
 image:
   caption: Photo by Lewend Mayiwar
   focal_point: Smart
-summary: Emotion Regulation via Self-Distancing: Consequences for Risk-Taking and Cognitive Processing
+summary: Emotion Regulation via Self-Distancing; Consequences for Risk-Taking and Cognitive Processing
 tags:
 title: PhD Project
 links:
