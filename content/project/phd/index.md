@@ -3,7 +3,7 @@ date: "2022-02-04T00:00:00Z"
 image:
   caption: Photo by Lewend Mayiwar
   focal_point: Smart
-summary: When Decision Makers Transcend the Here and Now
+summary: Emotion Regulation via Self-Distancing: Consequences for Risk-Taking and Cognitive Processing
 tags:
 title: PhD Project
 links:
@@ -13,6 +13,10 @@ links:
   url: https://twitter.com/Lewendm
 ---
 
-A large body of research has shown that emotions play a key role in shaping people's judgments and decisions. However, people are also capable of regulating their emotions. One tactic of emotion regulation that has shown to be particularly promising is *self-distancing*. For instance, one might reflect on a negative or stressful situation from the perspective of a distant, impartial observer, or by focusing on the "bigger picture". In my PhD project, I examine how self-distancing, and psychological distance more generally, shapes people's judgments and decisions in conditions that involve risk or uncertainty. For instance, in one project, I examine how self-distancing regulates the influence of incidental emotions like fear and anger on risk taking. In another project, I examine how fear and self-distancing influence information processing during decision making; that is, the extent to which people rely on their intuition vs. engage in analytical processing. Finally, I am also very interested in the relationship between psychological distance and emotion itself. How do certain emotions enable people to traverse psychological distance? Why and how do some emotions contract people's scope to the self and the here and now, whereas other emotions expand scope to consider distant people, places, and events?
+My PhD focuses on the influence of emotions and emotion regulation in decision-making under risk and uncertainty, largely focusing on organizational settings. 
 
-While I mainly use experiments to explore these questions, I also use personality measures. My overall research is guided by an interest in open science, which seeks to make the scientific process open, transparent, and reproducible.
+A large body of research has shown that emotions play a key role in shaping people's judgments and decisions. However, people are also capable of regulating their emotions. One tactic of emotion regulation that has shown to be particularly promising is *self-distancing*. For instance, one might reflect on a negative or stressful situation from the perspective of a distant, impartial observer, or by focusing on the "bigger picture". In my PhD project, I examine how self-distancing, and psychological distance more generally, regulates the influence of emotions in decision-making. For instance, in one project, I examine how self-distancing regulates the influence of incidental emotions like fear and anger on risk taking and information processing (i.e., intuitive and analytical processing). In another project, I examine how managers who make decisions for others (vs. for themselves) process information and make decisions involving risk. 
+
+Aside from my PhD research, I examine a range of topics, such as workplace stress and decision-making, social cognition, and overconfidence.
+
+While I mainly use experiments to explore these questions, I often examine these questions on the trait level (i.e., individual differences). My overall research is guided by an interest in open science, which seeks to make the scientific process open, transparent, and reproducible.
