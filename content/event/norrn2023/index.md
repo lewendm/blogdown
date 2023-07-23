@@ -8,8 +8,8 @@ address:
   street: 
 all_day: false
 authors: []
-date: "2023-06-05T09:00:00Z"
-date_end: "2023-06-05T11:00:00Z"
+date: "2023-06-05"
+date_end: "2023-06-05"
 event: NORRN Annual Event 2023
 event_url: 
 featured: false
@@ -23,7 +23,7 @@ links:
 location: Oslo/Zoom
 projects:
 - internal-project
-publishDate: "2023-06-05T13:00:00Z"
+publishDate: "2023-06-05"
 slides: example
 summary: 
 tags: []

@@ -8,8 +8,8 @@ address:
   street: 
 all_day: false
 authors: []
-date: "2022-11-04T12:00:00Z"
-date_end: "2022-11-04T13:00:00Z"
+date: "2022-11-04"
+date_end: "2022-11-04"
 event: LDM workshop
 event_url: 
 featured: false
@@ -23,7 +23,7 @@ links:
 location: Department of Psychology, New York University
 projects:
 - internal-project
-publishDate: "2022-11-04T13:00:00Z"
+publishDate: "2022-11-04"
 slides: example
 summary: 
 tags: []
