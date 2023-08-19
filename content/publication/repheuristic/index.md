@@ -3,7 +3,7 @@ abstract: Kahneman and Tversky (1972) showed that when people make probability j
 Keywords:
 authors:
 - Mayiwar, L., Hin, W. K, Løhre, E., & Feldman, G
-date: "2023-01-08"
+date: "2023-08-01"
 doi: ""
 featured: true
 image:
@@ -13,7 +13,7 @@ projects: []
 publication: '*Preprint*'
 publication_short: ""
 publication_types: ""
-publishDate: "2023-01-08"
+publishDate: "2023-08-01"
 slides: #
 summary: 
 title: "Revisiting representativeness classic paradigms: Replication and extensions of the problems reviewed in Kahneman and Tversky (1972)"
