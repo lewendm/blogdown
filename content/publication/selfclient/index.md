@@ -1,25 +1,25 @@
 ---
-abstract: In two preregistered online studies (NTotal = 984; Prolific), we examined how individual differences in fear and self-distancing predict information processing in decision-making involving risk in a business scenario. Dispositional fear was positively related to urgent and affective intuitive processing and negatively related to analytical processing. Self-distancing was positively related to analytical processing. These relations occurred indirectly via problem construal. Dispositional fear predicted less concrete problem construal, which in turn predicted more urgent intuitive processing and less analytical processing. In contrast, habitual self-distancing predicted more concrete problem construal, which in turn predicted more analytical processing and less urgent intuitive processing. Surprisingly, dispositional fear had a negative indirect relation with affective intuitive processing via more abstract problem construal, and habitual self-distancing had a positive indirect relation with affective processing via more concrete problem construal. Overall, these findings suggest that, in contrast to emotionally regulated decision-makers, fearful decision-makers’ tendency to construe problems less concretely (i.e., more abstractly) might hinder their ability to concretize and analyze problems involving risk. 
+abstract: In an online experiment, financial advisors (N = 251) completed a hypothetical but realistic decision-making problem concerning pension fund investment on behalf of themselves or a client. Advisors who made decisions on behalf of their clients (vs. themselves) were more risk averse (only in the gain frame, with no effect in the loss frame). Moreover, advisors who decided for their clients processed information less intuitively and slightly more analytically. The change in intuitive processing drove the effect of social distance on risk-aversion in the gain frame. The current study extends previous research by providing further insight into the information-processing mechanisms, while also showing that self-other differences may be particularly salient among professional decision-makers who regularly make decisions on behalf of others.
 Keywords:
 authors:
-- Mayiwar, L., Hærem. T., Furnham, A
-date: "2023-08-22"
+- Mayiwar, L
+date: "2023-08-19"
 doi: ""
 featured: true
 image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Personality and Individual Differences (in press)*'
+publication: '*Preprint*'
 publication_short: ""
 publication_types: ""
 publishDate: "2023-08-22"
 slides: #
 summary: 
-title: "Individual Differences in Fear and Self-Distancing Predict Information Processing via Problem Construal"
+title: "Financial Advisors Rely Less on Intuition and Are More Risk-Averse When Deciding for Their Clients"
 url_code: ""
 url_dataset: ""
-url_pdf: "MayiwarHaeremFurnham2023_preprint.pdf"
+url_pdf: "selfclient.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
