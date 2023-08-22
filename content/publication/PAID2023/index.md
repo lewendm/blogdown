@@ -1,24 +1,24 @@
 ---
-abstract: We draw on arousal-based models to develop and test a model of open-office noise and information processing. Specifically, we examined whether open-office noise changes how people process information and whether such a change has consequences for task performance. In a laboratory experiment, we randomly assigned participants (107 students at a business school) to either a silent condition or a condition that exposed them to open-office noise (irrelevant speech) while completing a task that requires cognitive flexibility. We measured participants’ physiological arousal and the extent to which they processed information intuitively and analytically during the task. Open-office noise increased urgent processing and decreased analytical processing, which led to a respective decrease and increase in task performance. In line with a neuroscientific account of cognitive processing, an increase in arousal (subjective and physiological) drove the detrimental effect of open-office noise on task performance. Understanding the information-processing consequences of open-office noise can help managers make more informed decisions about workplace environments that facilitate performance. Our study is one of the first to examine the indirect effects of open-office noise on task performance through intuitive and analytical processing, while simultaneously testing and providing support for the accompanying physiological mechanism.
+abstract: In two preregistered online studies (NTotal = 984; Prolific), we examined how individual differences in fear and self-distancing predict information processing in decision-making involving risk in a business scenario. Dispositional fear was positively related to urgent and affective intuitive processing and negatively related to analytical processing. Self-distancing was positively related to analytical processing. These relations occurred indirectly via problem construal. Dispositional fear predicted less concrete problem construal, which in turn predicted more urgent intuitive processing and less analytical processing. In contrast, habitual self-distancing predicted more concrete problem construal, which in turn predicted more analytical processing and less urgent intuitive processing. Surprisingly, dispositional fear had a negative indirect relation with affective intuitive processing via more abstract problem construal, and habitual self-distancing had a positive indirect relation with affective processing via more concrete problem construal. Overall, these findings suggest that, in contrast to emotionally regulated decision-makers, fearful decision-makers’ tendency to construe problems less concretely (i.e., more abstractly) might hinder their ability to concretize and analyze problems involving risk.
 authors:
-- Mayiwar, L., & Hærem, T
-date: "2023-06-07"
+- Mayiwar, L., Hærem, T., Furnham, A
+date: "2023-08-22"
 doi: ""
 featured: true
 image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Managerial Psychology*'
+publication: '*Personality and Individual Differences (in press)*'
 publication_short: ""
 publication_types: ""
-publishDate: "2023-06-07"
+publishDate: "2023-08-22"
 slides: #
 summary: 
-title: "Open-office noise and information processing"
+title: "Individual Differences in Fear and Self-Distancing Predict Information Processing via Problem Construal"
 url_code: ""
 url_dataset: ""
-url_pdf: "jmp2023.pdf"
+url_pdf: "MayiwarHaeremFurnham2023_preprint.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
