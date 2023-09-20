@@ -3,7 +3,7 @@ abstract: In two preregistered online studies (NTotal = 984; Prolific), we exami
 authors:
 - Mayiwar, L., Hærem, T., Furnham, A
 date: "2023-08-22"
-doi: ""
+doi: "https://doi.org/10.1016/j.paid.2023.112383"
 featured: true
 image:
   focal_point: ""
@@ -12,13 +12,13 @@ projects: []
 publication: '*Personality and Individual Differences (in press)*'
 publication_short: ""
 publication_types: ""
-publishDate: "2023-08-22"
+publishDate: "2023-08-31"
 slides: #
 summary: 
 title: "Individual Differences in Fear and Self-Distancing Predict Information Processing via Problem Construal"
 url_code: ""
 url_dataset: ""
-url_pdf: "MayiwarHaeremFurnham2023_preprint.pdf"
+url_pdf: "paid2023.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

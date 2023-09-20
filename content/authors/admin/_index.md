@@ -2,9 +2,9 @@
 bio: Emotions, judgment and decision making, reproducibility, replications.
 education:
   courses:
-  - course: PhD in Organizational Behavior
-    institution: BI Norwegian Business School, Department of Leadership and Organizational Behavior (dissertation submitted for evaluation; defense set for September 2023)
-    year: 2019-2023 (September)
+  - course: PhD in Organizational Behavior (completed)
+    institution: BI Norwegian Business School, Department of Leadership and Organizational Behavior 
+    year: 2019-2023
   - course: Visiting Scholar
     institution: Department of Psychology (Trope Lab), New York University, New York
     year: 2022-2023
@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: BI Norwegian Business School
   url: "https://www.bi.edu/"
-role: PhD Candidate (expected 2023)
+role: Looking for a job!
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,6 +52,6 @@ social:
 superuser: true
 title: Lewend Mayiwar
 ---
-I am a PhD candidate at the Department of Leadership & Organizational Behavior at BI Norwegian Business School. My research examines the role of emotions and emotion regulation in decisions involving risk and uncertainty. I am a big fan of open and reproducible science, and an avid user of {{< icon name="r-project" pack="fab" >}}. I set up the first ReproducibiliTea journal club in Norway, that I'm currently co-running with a colleague. The goal of our journal club is to raise awareness of open science and reproducibility (see "Projects" for more info). I am also a local node leader for Norway's Reproducibility Network {{< staticref "https://www.norrn.no/team" "newtab">}} (NORRN) {{< /staticref >}}.
+I a recently completed my PhD at the Department of Leadership & Organizational Behavior at BI Norwegian Business School. Broadly speaking, my research examines emotions and decision-making. I am a big fan of open and reproducible science, and an avid user of {{< icon name="r-project" pack="fab" >}}. I set up the first ReproducibiliTea journal club in Norway, that I'm currently co-running with a colleague. The goal of our journal club is to raise awareness of open science and reproducibility (see "Projects" for more info). I am also a local node leader for Norway's Reproducibility Network {{< staticref "https://www.norrn.no/team" "newtab">}} (NORRN) {{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
