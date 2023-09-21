@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: BI Norwegian Business School
   url: "https://www.bi.edu/"
-role: Looking for a job!
+role: PhD/Researcher
 social:
 - icon: envelope
   icon_pack: fas
