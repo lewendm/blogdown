@@ -9,7 +9,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Personality and Individual Differences (in press)*'
+publication: '*Personality and Individual Differences*'
 publication_short: ""
 publication_types: ""
 publishDate: "2023-08-31"
