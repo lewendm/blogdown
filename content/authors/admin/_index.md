@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: BI Norwegian Business School
   url: "https://www.bi.edu/"
-role: PhD/Researcher
+role: Post-Doctoral Fellow/Incoming Associate Professor
 social:
 - icon: envelope
   icon_pack: fas
@@ -54,4 +54,4 @@ title: Lewend Mayiwar
 ---
 Trying to understand how we think and feel, in an open and reproducible way. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} My {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -20,22 +20,22 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: lewend.mayiwar@bi.no
+email: lewend.m@hotmail.com
 address:
-  street: Nydalsveien 37
-  city: Oslo
-  postcode: '0484'
-  country: Norway
-  country_code: NO
+  street: 
+  city: 
+  postcode: 
+  country: 
+  country_code: 
 coordinates:
-  latitude: '59.94852505566656'
-  longitude: '10.76861014286295'
-directions: Office A4-y on Floor 4
+  latitude: 
+  longitude: 
+directions: 
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/LewendM'
+  - icon: 
+    icon_pack: 
+    name: 
+    link: 
 
 # Site header
 
