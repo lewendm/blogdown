@@ -5,7 +5,7 @@ authors:
 - Mayiwar, L
 date: "2023-08-19"
 doi: ""
-featured: true
+featured: false
 image:
   focal_point: ""
   preview_only: false
