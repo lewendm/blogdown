@@ -4,20 +4,20 @@ education:
   courses:
   - course: Post-doc in emotions and decision-making
     institution: JEDI lab, Linköping University
+    year: 2024-2026
   - course: Incoming Associate Professor in Organizational Behavior
     institution: Oslo Metropolitan University (OsloMet)
+    year: 2024
   - course: PhD in Organizational Behavior (completed)
     institution: BI Norwegian Business School, Department of Leadership and Organizational Behavior 
     year: 2019-2023
   - course: Visiting Scholar
     institution: Department of Psychology (Trope Lab), New York University, New York
     year: 2022-2023
-  - course: Local node leader and steering committee member
-    institution: Norway's Reproducibility Network {{< staticref "https://www.norrn.no/team" "newtab">}} (NORRN) {{< /staticref >}}.
-email: lewend.mayiwar@bi.no
+email: lewend.m@hotmail.com
 highlight_name: true
 interests:
-- Open science & reproducibility
+- Open science & reproducibility (member of Norway's Reproducibility Network)
 - Replications
 - Emotions and decision making
 organizations:
