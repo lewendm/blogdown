@@ -2,7 +2,7 @@
 bio: Emotions, judgment and decision making, reproducibility, replications.
 education:
   courses:
-  - course: Post-doc in emotions and decision-making
+  - course: Post-doc in behavioral economics (emotions and decision-making)
     institution: JEDI lab, Linköping University
     year: 2024-2026
   - course: Incoming Associate Professor in Organizational Behavior
@@ -17,9 +17,9 @@ education:
 email: lewend.m@hotmail.com
 highlight_name: true
 interests:
-- Open science & reproducibility (member of Norway's Reproducibility Network)
-- Replications
 - Emotions and decision making
+- Open science & reproducibility (member of Norway's Reproducibility Network)
+
 organizations:
 - name: BI Norwegian Business School
   url: "https://www.bi.edu/"
